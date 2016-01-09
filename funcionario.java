@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Date;
 
 class Data{
 	private int dia;
